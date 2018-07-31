@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="easy">EASY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+
+    <string name="incorrectMsg"> INCORRECT PLEASE TRY AGAIN </string>
+    <string name="correctMsg"> CORRECT </string>
+
+    <string name="alertDialogContinue">CONTINUE</string>
+
+    <string name="alertDialogStop">START A NEW GAME</string>
+
+    <string name="alertDialogTitle">YOU HAVE WON THE EASY MODE. WOULD YOU LIKE TO CONTINUE?</string>
+
+    // EASY QUESTIONS
+    <string name="eQuestion1">In the UK, VAT stands for value-added ...?</string>
+    <string name="eAnswer1.1">Transaction</string>
+    <string name="eAnswer1.2">Total</string>
+    <string name="eAnswer1.3">Tax</string>
+    <string name="eAnswer1.4">Trauma</string>
+
+    <string name="eQuestion2">What are you said to do to a habit when you break it?</string>
+    <string name="eAnswer2.1">Throw it</string>
+    <string name="eAnswer2.2">Punch it</string>
+    <string name="eAnswer2.3">Eat it</string>
+    <string name="eAnswer2.4">Kick it</string>
+
+    <string name="eQuestion3">Where do you proverbially wear your heart, if you show your tru feelings?</string>
+    <string name="eAnswer3.1"> On your sleeve</string>
+    <string name="eAnswer3.2">On your head</string>
+    <string name="eAnswer3.3">On your collar</string>
+    <string name="eAnswer3.4">On your belt</string>
+
+    <string name="eQuestion4">What might an electrician lay?</string>
+    <string name="eAnswer4.1">Tables</string>
+    <string name="eAnswer4.2">Beds</string>
+    <string name="eAnswer4.3">Stables</string>
+    <string name="eAnswer4.4">Cables</string>
+
+    <string name="eQuestion5">How is a play on words commonly described? </string>
+    <string name="eAnswer5.1">Pun</string>
+    <string name="eAnswer5.2">Pan</string>
+    <string name="eAnswer5.3">Pin</string>
+    <string name="eAnswer5.4">Pancake</string>
+
+    // MEDIUM QUESTIONS
+    <string name="mQuestion1">Which is a US-made soap opera?</string>
+    <string name="mAnswer1.1">Johnsons Mere</string>
+    <string name="mAnswer1.2">Thompsons Pond </string>
+    <string name="mAnswer1.3">Dawsons Creek</string>
+    <string name="mAnswer1.4">Madisons Lake</string>
+
+    <string name="mQuestion2">Which of these is a discipline in both mens and womens gymnastics?</string>
+    <string name="mAnswer2.1">Floor exercises </string>
+    <string name="mAnswer2.2">Ceiling exercises</string>
+    <string name="mAnswer2.3">Rhythmic exercises</string>
+    <string name="mAnswer2.4">Roof exercises</string>
+
+    <string name="mQuestion3">Which novel by Charles Dickens was made into a film in 2002?</string>
+    <string name="mAnswer3.1">Danny Dimeby </string>
+    <string name="mAnswer3.2">Quentin Quarterby </string>
+    <string name="mAnswer3.3"> Donald Dollarby </string>
+    <string name="mAnswer3.4">Nicholas Nickleby</string>
+
+    <string name="mQuestion4">Which of these is a material often used to make floor mats? </string>
+    <string name="mAnswer4.1">Rush </string>
+    <string name="mAnswer4.2">Dash </string>
+    <string name="mAnswer4.3"> Hassle </string>
+    <string name="mAnswer4.4">Bustle</string>
+
+    <string name="mQuestion5">August 16th 2003 was the 40th anniversary of which Great robbery? </string>
+    <string name="mAnswer5.1">Hovercraft </string>
+    <string name="mAnswer5.2">Pushchair </string>
+    <string name="mAnswer5.3"> Balloon </string>
+    <string name="mAnswer5.4"> Train </string>
+
+    // HARD QUESTIONS
+
+    <string name="hQuestion1">Which of these U.S. Presidents appeared on the television series Laugh-In?</string>
+    <string name="hAnswer1.1">Lyndon Johnson</string>
+    <string name="hAnswer1.2">Jimmy Carter</string>
+    <string name="hAnswer1.3">Richard Nixon</string>
+    <string name="hAnswer1.4">Gerald Ford</string>
+
+    <string name="hQuestion2">Who did artist Grant Wood use as the model for the farmer in his classic painting American Gothic?</string>
+    <string name="hAnswer2.1">Traveling salesman</string>
+    <string name="hAnswer2.2">Local sherif</string>
+    <string name="hAnswer2.3">His Dentist</string>
+    <string name="hAnswer2.4">His butcher</string>
+
+    <string name="hQuestion3">The U.S. icon "Uncle Sam" was based on Samuel Wilson, who worked during the War of 1812 as a what? </string>
+    <string name="hAnswer3.1"> Historian </string>
+    <string name="hAnswer3.2"> Postman </string>
+    <string name="hAnswer3.3"> Weapon mechanic </string>
+    <string name="hAnswer3.4"> Meat inspector </string>
+
+    <string name="hQuestion4">During World War II, U.S. soldiers used the first commercial aerosol cans to hold what? </string>
+    <string name="hAnswer4.1"> Cleaning fluid </string>
+    <string name="hAnswer4.2"> Insecticide </string>
+    <string name="hAnswer4.3"> Antiseptic </string>
+    <string name="hAnswer4.4"> Shaving cream </string>
+
+    <string name="hQuestion5">What letter must appear at the beginning of the registration number of all non-military aircraft in the U.S.? </string>
+    <string name="hAnswer5.1"> N </string>
+    <string name="hAnswer5.2"> U </string>
+    <string name="hAnswer5.3"> A </string>
+    <string name="hAnswer5.4"> L </string>
+</resources>
